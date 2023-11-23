@@ -170,9 +170,26 @@
         "enable_video_looping": false,
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "scheme-1",
         "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "6ea391b4-f17e-4d7e-b68a-79c850df14d1": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "blog": "",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
@@ -182,6 +199,7 @@
     "d6325e09-24d1-4710-8b39-97b117f940a4",
     "d4021d78-9148-4aad-9683-52a514ab60c0",
     "featured_collection",
-    "21173f7d-36ff-4b51-8d5e-f3c6546ec30c"
+    "21173f7d-36ff-4b51-8d5e-f3c6546ec30c",
+    "6ea391b4-f17e-4d7e-b68a-79c850df14d1"
   ]
 }
