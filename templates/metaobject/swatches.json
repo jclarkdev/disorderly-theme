@@ -3,7 +3,7 @@
     "b4eb9060-aac0-4e35-b45e-4def758a5599": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Featured {{ metaobject.name.value }} products",
         "heading_size": "h0",
         "description": "<p>Check out these products that match the {{ metaobject.name.value }} swatch<\/p>",
         "show_description": false,
