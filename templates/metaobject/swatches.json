@@ -11,7 +11,7 @@
         "collection": "swatches-blue",
         "products_to_show": 25,
         "columns_desktop": 4,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "link",
         "enable_desktop_slider": true,
