@@ -3,9 +3,9 @@
     "b4eb9060-aac0-4e35-b45e-4def758a5599": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Featured products",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>Check out these products that match the {{ metaobject.name.value }} swatch<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "swatches-blue",
